@@ -1,0 +1,2 @@
+../Core/Src/hc_sr04.c:12:6:hc_sr04_init	24	static
+../Core/Src/hc_sr04.c:22:10:hc_sr04_convert_us_to_cm	16	static
